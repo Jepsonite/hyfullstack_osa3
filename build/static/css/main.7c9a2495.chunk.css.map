@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/jepsonite/react_opettelu/ensimmainen/teht2.18-2.19/src/index.css"],"names":[],"mappings":"AAAA,OACE,iBAAkB,AAClB,eAAgB,AAChB,mBAAoB,AACpB,aAAc,AACd,kBAAoB,CACrB","file":"main.7c9a2495.chunk.css","sourcesContent":[".error {\n  background: green;\n  font-size: 20px;\n  border-style: solid;\n  padding: 10px;\n  margin-bottom: 10px;\n}\n"]}
